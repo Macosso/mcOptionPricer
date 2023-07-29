@@ -16,7 +16,7 @@ Overall, the implementation is efficient and accurate, making it a useful tool f
 
 ## Install the package from Github
 ```{r}
-#devtools::install_github("https://github.com/Macosso/mcOptionPricer")
+devtools::install_github("https://github.com/Macosso/mcOptionPricer")
 
 ```
 
